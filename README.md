@@ -1,1 +1,3 @@
-# sleep-play
+# points
+
+01. autoencoder
